@@ -1,0 +1,80 @@
+body {
+    color: brown;
+    margin: 0;
+    background-color: bisque;
+}
+h1 {
+    color: blue;
+    margin-top: 100px;
+}
+p{
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    border-radius: 50%;
+}
+.top-container{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    top: 100px;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bolder;
+
+}
+.middle-container{
+    margin-top: 300px;
+    margin-left: 400px;
+    margin-bottom: 100px;
+    margin-right: 400px;
+    text-align: center;
+    
+}
+.profile{
+    margin: auto;
+}
+.skill-row{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    line-height: 2;
+}
+.bottom-container{
+    background-color: beige;
+    margin-top: 100px;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    padding: auto;
+}
+
+a:hover{
+    color: black;
+}
+
+.copyright{
+    color: blue;
+}
+.btn {
+    -webkit-border-radius: 30;
+    -moz-border-radius: 30;
+    border-radius: 30px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    background: #3486d9;
+    padding: 10px 20px 10px 20px;
+    border: solid #8c1f66 5px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #fa0d54;
+    text-decoration: none;
+  }
+
+
+
+
